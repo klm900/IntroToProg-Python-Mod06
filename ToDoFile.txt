@@ -1,0 +1,6 @@
+Buy groceries,High
+Clean windows,Medium
+Clean bathroom,High
+Bake cake,Low
+Dust,Low
+Vacuum,Medium
